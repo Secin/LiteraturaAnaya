@@ -63,6 +63,5 @@ Es una Aplicación de Consola java para acceder a la información del servicio d
 - Postgree
 
 ## Autor
-![Uploading Imagen de WhatsApp 2025-07-24 a las 17.34.16_92e3f6fe.jpg…]()
 
 - Ing. Cinthia Karen Anaya Muñoz
